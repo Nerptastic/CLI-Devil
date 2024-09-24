@@ -1,6 +1,6 @@
 # CLI Devil
 
-Useless little thing
+Small Experiment
 
 ## Features
 - Random typing delays
